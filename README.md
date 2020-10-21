@@ -1,6 +1,6 @@
 # SSOO-tarea01
-Autor: Ana Muñoz
-Correo: ana.munoz@alumnos.uv.cl
+## Autor: Ana Muñoz
+## Correo: ana.munoz@alumnos.uv.cl
 
 La función fork(), aparte de entregar una copia del proceso padre como
 proceso hijo, retorna un valor que indica si el fork se ha ejecutado correctamente.
