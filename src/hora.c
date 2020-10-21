@@ -25,5 +25,6 @@ int main() {
 			strftime(hora,128, "%d/%m/%y %H:%M:%S", tlocal);
 			printf("Señal SIGUSR1 recibida: %s\n", hora);
 			break;
+			//test
 	}
 }
